@@ -7,7 +7,7 @@ This repository contains Google Colab notebooks for **CheckLoop**, an assessor-f
 
 ---
 
-## 📘 Notebooks
+##  Notebooks
 
 | Stage | Notebook file | Open in Colab | Purpose |
 |:--:|:--|:--|:--|
